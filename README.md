@@ -20,7 +20,7 @@
   - [News API](https://newsapi.org/)
 
 ### ScreenShot : 
-  <img src="https://github.com/suardi26/MVVM-NewsApp/blob/main/screenShootApp.jpg" alt="ScreenShot App"/>
+  <img src="https://github.com/suardi26/MVVM-News-App-Android/blob/main/MVVM3.jpg" alt="MVVM Architecture"/>
  
 ### Social Media :
 <p align="left">
