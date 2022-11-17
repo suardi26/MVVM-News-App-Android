@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM-News-App-Android</string>
+    <string name="retry">Retry</string>
+    <string name="movie_not_found">Error = %1$s</string>
+    <string name="try_again">Try Again !!!</string>
+    <string name="search">Search...</string>
+</resources>
