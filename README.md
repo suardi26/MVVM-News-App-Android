@@ -6,6 +6,8 @@
  - Retrofit Version 2.9.0
  - Navigation Component 2.5.2
  - Glide Version 4.14.2
+ - Dagger Hilt Version 2.44
+ - Paging 3.1.1
 
 ### Software :
 
@@ -19,8 +21,7 @@
 ### API : 
   - [News API](https://newsapi.org/)
 
-### ScreenShot : 
-  <img src="https://github.com/suardi26/MVVM-News-App-Android/blob/main/MVVM3.jpg" alt="MVVM Architecture"/>
+<img src="https://github.com/suardi26/MVVM-News-App-Android/blob/main/MVVM3.jpg" alt="MVVM Architecture"/>
  
 ### Social Media :
 <p align="left">
